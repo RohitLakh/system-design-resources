@@ -3,14 +3,15 @@ A directory of good system design resources
 
 Sharing some of my favorite newsletters, videos, and case studies for system design:
 
-Repos, Newsletters & Case Studies
+## Repos, Newsletters & Case Studies
+
 [Hello, World!](https://hw.glich.co/) – Weekly system design case studies. Real-world problems, short and clear breakdowns.
 
 [ByteByteGo ](https://bytebytego.com/) – Visuals, newsletters, YouTube. Probably the most complete system design brand out there.
 
 [System Design Primer](https://github.com/donnemartin/system-design-primer) – Everyone links to it for a reason. Start here if you haven’t already.
 
-[awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) Ashish Pratap Singh's repo, beginner friendly.
+[awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) Ashish Pratap Singh's repo, beginner-friendly.
 
 
 [InterviewReady.io](https://github.com/InterviewReady)  by Gaurav Sen – YouTube + practical GitHub content.
@@ -19,7 +20,7 @@ Repos, Newsletters & Case Studies
 
 [System design full roadmap ](https://roadmap.sh/system-design) System Design Roadmap of what to learn in what order.
 
-Videos:
+## Videos:
 
 [Distributed Systems](https://youtu.be/UEAMfLPZZhE?si=wETCYHl311iFqOGE) – Great for understanding the why behind things.
 
@@ -34,13 +35,13 @@ Videos:
 
 Shrayansh Ultimate [LLD](https://youtu.be/rliSgjoOFTs?si=Z-YLg3KPNLEDy2yq) and [HLD](https://youtu.be/rliSgjoOFTs?si=Wu2jhwOMEP0_7nJe) Good structure if you’re lost.
 
-Books: 
+## Books: 
+
 Designing Data-Intensive Applications – Honestly, this changed how I think about building anything.
 
-[System Design Interview](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)  by Alex Xu – Still great for interviews.
 
 [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/) – Maarten van Steen bit academic but full of core principles.
 
-[Database Internals](https://dokumen.pub/database-internals-a-deep-dive-into-how-distributed-data-systems-work-1492040347-9781492040347-i-3646633.html)– Deep dive, but worth it.
+[Database Internals](https://dokumen.pub/database-internals-a-deep-dive-into-how-distributed-data-systems-work-1492040347-9781492040347-i-3646633.html) – Deep dive, but worth it.
 
-[Database Internals Notes](https://github.com/Akshat-Jain/database-internals-notes) by akshat jain, Super helpful summary repo.
+[Database Internals Notes](https://github.com/Akshat-Jain/database-internals-notes) by Akshat Jain, Super helpful summary repo.
